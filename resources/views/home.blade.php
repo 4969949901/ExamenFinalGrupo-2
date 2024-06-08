@@ -126,14 +126,18 @@
                             {{ $datos->links() }}
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
     </div>
 
 
+
     <script src=" {{ asset('javascript/main.js') }}"></script>
     </body>
     </html>
 
+
+</div>
 @endsection
